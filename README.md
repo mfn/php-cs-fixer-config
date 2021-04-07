@@ -12,6 +12,8 @@ The rules require `setRiskyAllowed(true)`.
 
 In your php-cs-fixer config:
 ```php
+require 'vendor/autoload.php';
+
 $rules = \Mfn\PhpCsFixer\Config::getRules();
 
 return (new PhpCsFixer\Config())
