@@ -125,8 +125,11 @@ class Config
             'multiline_whitespace_before_semicolons' => true,
             'native_constant_invocation' => false,
             'native_function_casing' => true,
+            // https://github.com/FriendsOfPHP/PHP-CS-Fixer/blob/2.19/doc/rules/function_notation/native_function_invocation.rst
             'native_function_invocation' => [
-                'include' => [],
+                'include' => [
+                    '@compiler_optimized',
+                ],
                 'strict' => true,
             ],
             'native_function_type_declaration_casing' => true,
