@@ -3,6 +3,8 @@ CHANGELOG
 
 [Next release](https://github.com/mfn/php-cs-fixer-config/compare/1.0.2...master)
 --------------
+- rename `trailing_comma_in_multiline_array` to `trailing_comma_in_multiline`
+- clarify readme/composer.json the config is now for v3
 
 2021-06-17, 1.0.2
 -----------------
