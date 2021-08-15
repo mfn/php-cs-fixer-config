@@ -1,6 +1,6 @@
 {
     "name": "mfn/php-cs-fixer-config",
-    "description": "My opinionated php-cs-fixer config",
+    "description": "My opinionated php-cs-fixer config for v3",
     "type": "library",
     "authors": [
         {

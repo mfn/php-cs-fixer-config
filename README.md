@@ -1,4 +1,4 @@
-# My opinionated php-cs-fixer config
+# My opinionated php-cs-fixer config for v3
 
 Not much to say, these are my opinions.
 
