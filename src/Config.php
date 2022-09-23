@@ -182,8 +182,7 @@ class Config
             'no_superfluous_phpdoc_tags' => [
                 'allow_mixed' => true,
             ],
-            'no_trailing_comma_in_list_call' => true,
-            'no_trailing_comma_in_singleline_array' => true,
+            'no_trailing_comma_in_singleline' => true,
             'no_trailing_whitespace_in_comment' => true,
             'no_unneeded_control_parentheses' => true,
             'no_unneeded_curly_braces' => true,
