@@ -187,6 +187,7 @@ class Config
             'no_unneeded_control_parentheses' => true,
             'no_unneeded_curly_braces' => true,
             'no_unneeded_final_method' => false,
+            'no_unneeded_import_alias' => true,
             'no_unreachable_default_argument_value' => false,
             'no_unset_cast' => true,
             'no_unset_on_property' => false,
