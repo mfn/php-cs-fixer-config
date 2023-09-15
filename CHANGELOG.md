@@ -4,6 +4,10 @@ CHANGELOG
 [Next release](https://github.com/mfn/php-cs-fixer-config/compare/1.0.2...master)
 --------------
 
+2023-09-15, 2.3.0
+-----------------
+- Added `is_null`
+
 2022-09-25, 2.2.0
 -----------------
 - Added `no_unneeded_import_alias`

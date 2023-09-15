@@ -107,6 +107,7 @@ class Config
             'implode_call' => true,
             'include' => true,
             'indentation_type' => true,
+            'is_null' => true,
             'lambda_not_used_import' => true,
             'linebreak_after_opening_tag' => false,
             'list_syntax' => [
