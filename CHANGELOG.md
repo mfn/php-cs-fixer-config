@@ -1,8 +1,12 @@
 CHANGELOG
 =========
 
-[Next release](https://github.com/mfn/php-cs-fixer-config/compare/1.0.2...master)
+[Next release](https://github.com/mfn/php-cs-fixer-config/compare/2.4.0...master)
 --------------
+
+2023-12-15, 2.4.0
+-----------------
+- Added `ordered_imports` with the config matching php-cs-fixer & symfony
 
 2023-09-15, 2.3.0
 -----------------

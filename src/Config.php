@@ -209,7 +209,14 @@ class Config
                 'position' => 'end',
             ],
             'ordered_class_elements' => false,
-            'ordered_imports' => true,
+            'ordered_imports' => [
+                'imports_order' => [
+                    'class',
+                    'function',
+                    'const',
+                ],
+                'sort_algorithm' => 'alpha',
+            ],
             'ordered_interfaces' => false,
             'ordered_traits' => false,
             'php_unit_construct' => true,
